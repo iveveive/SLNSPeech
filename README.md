@@ -1,5 +1,6 @@
 # SLNSpeech
-SLNSpeech: solving extended speech separation problem with the help of sign language![model](C:\Users\lx\Desktop\1\SLNSpeech\imgs\model.png)
+SLNSpeech: solving extended speech separation problem with the help of sign language
+![图片](https://github.com/iveveive/SLNSPeech)
 
 # Dataset
 
