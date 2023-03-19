@@ -1,6 +1,6 @@
 # SLNSpeech
 SLNSpeech: solving extended speech separation problem with the help of sign language
-![图片](https://github.com/iveveive/SLNSPeech)
+![图片](https://github.com/iveveive/SLNSPeech/blob/main/imgs/model.png)
 
 # Dataset
 
