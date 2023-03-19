@@ -1,5 +1,7 @@
 # SLNSpeech
-SLNSpeech: solving extended speech separation problem with the help of sign language
+Source code of paper "SLNSpeech: solving extended speech separation problem with the help of sign language".
+
+# Model
 ![图片](https://github.com/iveveive/SLNSPeech/blob/main/imgs/model.png)
 
 # Dataset
